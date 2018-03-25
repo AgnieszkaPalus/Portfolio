@@ -1,3 +1,3 @@
 # Portfolio
 Agnieszka Palus - Portfolio.
-live preview: http://agape88.ayz.pl/Portfolio/
+live preview: http://apalus.pl/
